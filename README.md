@@ -1,4 +1,4 @@
-**Flashcard Quiz App **
+FLASHCARD QUIZ APP
 
 **Overview**
 This project involves building a flashcard-style quiz application using Redux and Redux Toolkit for state management. Users will be able to create topics, quizzes, and flashcards, as well as interact with the quizzes by flipping the flashcards over. The project is structured in a way that helps you implement the app's Redux logic incrementally, starting with topics, followed by quizzes, and finally, flashcards.
