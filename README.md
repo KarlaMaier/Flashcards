@@ -16,6 +16,7 @@ The project is divided into several tasks that guide you through implementing th
 **3.	Flashcards:** Implementing state management for flashcards.
 
 **Installation**
+
 **1.	Clone the Repository:**
 bash
 Copy code
