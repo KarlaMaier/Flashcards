@@ -22,10 +22,12 @@ bash
 Copy code
 git clone https://github.com/your-username/flashcard-quiz-app.git
 cd flashcard-quiz-app
+
 **2.	Install Dependencies:**
 bash
 Copy code
 npm install
+
 **3.	Start the Application:**
 bash
 Copy code
@@ -33,7 +35,7 @@ npm start
 
 **Technologies Used**
 **•	React:** For building the user interface.
-**•	Redux: **For managing the application state.
+**•	Redux:** For managing the application state.
 **•	Redux Toolkit:** For simplifying Redux logic and setup.
 
 **Directory Structure**
