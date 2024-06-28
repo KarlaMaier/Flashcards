@@ -34,9 +34,13 @@ Copy code
 npm start
 
 **Technologies Used**
+
 **•	React:** For building the user interface.
+
 **•	Redux:** For managing the application state.
+
 **•	Redux Toolkit:** For simplifying Redux logic and setup.
+
 
 **Directory Structure**
 
